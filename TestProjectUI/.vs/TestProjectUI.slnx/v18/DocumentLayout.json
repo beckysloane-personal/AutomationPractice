@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\locators\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\locators\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\locators\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\pagefooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\locators\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\locators\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\locators\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,10 +32,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrew\\Documents\\BeckyCoding\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|c:\\users\\andrew\\documents\\beckycoding\\testprojectui\\testprojectui\\locators\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8DD9007-A2B0-7E34-6BCB-B9F42019C648}|TestProjectUI\\TestProjectUI.csproj|solutionrelative:testprojectui\\locators\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,11 +41,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Booking.cs",
               "RelativeDocumentMoniker": "TestProjectUI\\Locators\\Booking.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\.gitignore",
               "RelativeDocumentMoniker": "..\\.gitignore",
@@ -72,72 +72,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PageFooter.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\PageFooter.cs",
               "RelativeDocumentMoniker": "TestProjectUI\\Locators\\PageFooter.cs",
               "ToolTip": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\PageFooter.cs",
               "RelativeToolTip": "TestProjectUI\\Locators\\PageFooter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T15:59:00.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Contact.cs",
               "RelativeDocumentMoniker": "TestProjectUI\\Locators\\Contact.cs",
               "ToolTip": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Contact.cs",
               "RelativeToolTip": "TestProjectUI\\Locators\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T18:47:28.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Location.cs",
               "RelativeDocumentMoniker": "TestProjectUI\\Locators\\Location.cs",
               "ToolTip": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Location.cs",
               "RelativeToolTip": "TestProjectUI\\Locators\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T18:47:18.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Home.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Home.cs",
               "RelativeDocumentMoniker": "TestProjectUI\\Locators\\Home.cs",
               "ToolTip": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Home.cs",
               "RelativeToolTip": "TestProjectUI\\Locators\\Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T18:47:05.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Rooms.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Rooms.cs",
               "RelativeDocumentMoniker": "TestProjectUI\\Locators\\Rooms.cs",
               "ToolTip": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\Locators\\Rooms.cs",
               "RelativeToolTip": "TestProjectUI\\Locators\\Rooms.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T18:41:49.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\BeckyCoding\\TestProjectUI\\TestProjectUI\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProjectUI\\UnitTest1.cs",

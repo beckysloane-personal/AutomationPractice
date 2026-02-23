@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TestProjectUI.Locators
 {
-    internal class PageFooter
+    public class PageFooter
     {
         // Buttons
         public By facebookBy = By.ClassName("bi bi-facebook");

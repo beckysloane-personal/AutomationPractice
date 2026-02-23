@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TestProjectUI.Locators
 {
-    internal class Home
+    public class Home
     {
         // Section Title
         public By titleBy = By.XPath("//h1");

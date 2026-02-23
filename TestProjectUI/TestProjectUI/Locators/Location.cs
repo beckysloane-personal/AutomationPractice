@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TestProjectUI.Locators
 {
-    internal class Location
+    public class Location
     {
         // Section Ids
         public By sectionBy = By.Id("location");
