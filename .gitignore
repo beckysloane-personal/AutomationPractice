@@ -276,7 +276,7 @@ ServiceFabricBackup/
 
 # Business Intelligence projects
 *.rdl.data
-*.bim.layout
+*..bim.layout
 *.bim_*.settings
 *.rptproj.rsuser
 *- [Bb]ackup.rdl
@@ -412,3 +412,22 @@ FodyWeavers.xsd
 *DocumentLayout.json
 *DocumentLayout.backup.json
 **/obj/Debug/*
+*.bin
+
+# OS / Editor helpers
+.DS_Store
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Test results directory
+TestResults/
+
+# Local environment and secret files (dev machine only)
+.env
+.env.local
+local.settings.json
+secrets.json
+secrets.*.json
