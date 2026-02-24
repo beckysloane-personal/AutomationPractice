@@ -436,3 +436,10 @@ secrets.*.json
 /TestProjectUI/.vs/TestProjectUI.slnx/v18/.suo
 /TestProjectUI/.vs/TestProjectUI.slnx/v18/DocumentLayout.backup.json
 /TestProjectUI/.vs/TestProjectUI.slnx/v18/DocumentLayout.json
+/TestProjectUI/TestProjectUI/obj/Debug/net10.0/TestProjectUI.assets.cache
+/TestProjectUI/TestProjectUI/obj/Debug/net10.0/TestProjectUI.csproj.AssemblyReference.cache
+/TestProjectUI/TestProjectUI/obj/project.assets.json
+/TestProjectUI/TestProjectUI/obj/project.nuget.cache
+/TestProjectUI/TestProjectUI/obj/TestProjectUI.csproj.nuget.dgspec.json
+/TestProjectUI/TestProjectUI/obj/TestProjectUI.csproj.nuget.g.targets
+/TestProjectUI/TestProjectUI/obj/TestProjectUI.csproj.nuget.g.props
