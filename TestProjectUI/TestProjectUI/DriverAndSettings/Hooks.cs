@@ -4,19 +4,12 @@ using Reqnroll;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using static TestProjectUI.DriverAndSettings.Driver;
 
 namespace TestProjectUI.DriverAndSettings
 {
     public class Hooks
     {
-        public IWebDriver CreateDriver()
-        {
-            var chromeOptions = new ChromeOptions();
-
-            IWebDriver driver = new ChromeDriver(chromeOptions);
-            return driver;
-        }
-
         [Binding]
         public class GlobalHooks
         {
@@ -34,8 +27,22 @@ namespace TestProjectUI.DriverAndSettings
         [BeforeScenario]
         public void InitializeScenario(ScenarioContext scenarioContext)
         {
-            var driver = CreateDriver();
             scenarioContext["driver"] = driver;
+        }
+
+        [AfterScenario] 
+        public void TearDownScenario(ScenarioContext scenarioContext)
+        {
+            var driver = scenarioContext["driver"] as IWebDriver;
+            if (driver != null)
+            {
+                CloseDriver(driver);
+            }
+        }
+        private static void CloseDriver(IWebDriver driver)
+        {
+            driver.Close();
+            driver.Quit();
         }
     }
 }

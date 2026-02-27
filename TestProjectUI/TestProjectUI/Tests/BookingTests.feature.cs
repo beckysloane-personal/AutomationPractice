@@ -133,17 +133,17 @@ namespace TestProjectUI.Tests
             await this.TestTearDownAsync();
         }
         
-        [global::Xunit.FactAttribute(DisplayName="[scenario name]")]
+        [global::Xunit.FactAttribute(DisplayName="Book-Single-Room")]
         [global::Xunit.TraitAttribute("FeatureTitle", "BookingTests")]
-        [global::Xunit.TraitAttribute("Description", "[scenario name]")]
+        [global::Xunit.TraitAttribute("Description", "Book-Single-Room")]
         [global::Xunit.TraitAttribute("Category", "tag1")]
-        public async global::System.Threading.Tasks.Task ScenarioName()
+        public async global::System.Threading.Tasks.Task Book_Single_Room()
         {
             string[] tagsOfScenario = new string[] {
                     "tag1"};
             global::System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new global::System.Collections.Specialized.OrderedDictionary();
             string pickleIndex = "0";
-            global::Reqnroll.ScenarioInfo scenarioInfo = new global::Reqnroll.ScenarioInfo("[scenario name]", null, tagsOfScenario, argumentsOfScenario, featureTags, pickleIndex);
+            global::Reqnroll.ScenarioInfo scenarioInfo = new global::Reqnroll.ScenarioInfo("Book-Single-Room", null, tagsOfScenario, argumentsOfScenario, featureTags, pickleIndex);
             string[] tagsOfRule = ((string[])(null));
             global::Reqnroll.RuleInfo ruleInfo = null;
 #line 6
