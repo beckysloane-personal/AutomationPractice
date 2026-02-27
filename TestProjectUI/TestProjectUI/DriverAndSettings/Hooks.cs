@@ -27,6 +27,7 @@ namespace TestProjectUI.DriverAndSettings
         [BeforeScenario]
         public void InitializeScenario(ScenarioContext scenarioContext)
         {
+            IWebDriver driver = new Driver().CreateDriver();
             scenarioContext["driver"] = driver;
         }
 

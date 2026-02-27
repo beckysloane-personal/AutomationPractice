@@ -9,6 +9,7 @@ namespace TestProjectUI.DriverAndSettings
     internal class Driver
     {
         public static IWebDriver driver;
+        public static string baseUrl = "https://automationintesting.online//";
 
         public IWebDriver CreateDriver()
         {
